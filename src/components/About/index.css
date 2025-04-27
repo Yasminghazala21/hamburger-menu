@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.about-bg-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+}
+
+.about-img {
+  height: 350px;
+}
+
+@media screen and (min-width: 768px) {
+  .about-img {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .about-img-lg {
+    display: none;
+  }
+}
+
+.about-img-lg {
+  height: 500px
+}

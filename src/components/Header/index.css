@@ -1,0 +1,67 @@
+/* Write your CSS here */
+.hamburger-header-bg-container {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #dcdcdc;
+}
+
+.website-logo {
+  height: 40px;
+}
+
+@media screen and (min-width: 768px) {
+  .website-logo {
+    height: 70px;
+  }
+}
+
+.hamburger-sign {
+  font-weight: bold;
+  font-size: 40px;
+  margin: 0;
+  background-color: transparent;
+  border-width: 0;
+}
+
+.popup-container {
+  min-height: 100vh;
+  background-color: #ffffff;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.close-button {
+  align-self: flex-end;
+  background-color: transparent;
+  border-width: 0;
+}
+
+.modal-list-items {
+  padding-left: 0;
+  list-style-type: none;
+  align-self: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.popup-item {
+  text-decoration: none;
+  color: #000000;
+  font-size: 30px;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+}
