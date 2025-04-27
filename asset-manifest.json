@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad1d7482.chunk.css",
-    "main.js": "/static/js/main.ba0a67c5.chunk.js",
-    "main.js.map": "/static/js/main.ba0a67c5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.41ace157.js",
-    "runtime-main.js.map": "/static/js/runtime-main.41ace157.js.map",
-    "static/js/2.4afd5953.chunk.js": "/static/js/2.4afd5953.chunk.js",
-    "static/js/2.4afd5953.chunk.js.map": "/static/js/2.4afd5953.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.ad1d7482.chunk.css.map": "/static/css/main.ad1d7482.chunk.css.map",
-    "static/js/2.4afd5953.chunk.js.LICENSE.txt": "/static/js/2.4afd5953.chunk.js.LICENSE.txt"
+    "main.css": "/hamburger-menu/static/css/main.ad1d7482.chunk.css",
+    "main.js": "/hamburger-menu/static/js/main.ba0a67c5.chunk.js",
+    "main.js.map": "/hamburger-menu/static/js/main.ba0a67c5.chunk.js.map",
+    "runtime-main.js": "/hamburger-menu/static/js/runtime-main.00644800.js",
+    "runtime-main.js.map": "/hamburger-menu/static/js/runtime-main.00644800.js.map",
+    "static/js/2.4afd5953.chunk.js": "/hamburger-menu/static/js/2.4afd5953.chunk.js",
+    "static/js/2.4afd5953.chunk.js.map": "/hamburger-menu/static/js/2.4afd5953.chunk.js.map",
+    "index.html": "/hamburger-menu/index.html",
+    "static/css/main.ad1d7482.chunk.css.map": "/hamburger-menu/static/css/main.ad1d7482.chunk.css.map",
+    "static/js/2.4afd5953.chunk.js.LICENSE.txt": "/hamburger-menu/static/js/2.4afd5953.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.41ace157.js",
+    "static/js/runtime-main.00644800.js",
     "static/js/2.4afd5953.chunk.js",
     "static/css/main.ad1d7482.chunk.css",
     "static/js/main.ba0a67c5.chunk.js"
